@@ -2,7 +2,8 @@
 
 title:            Mind Ramblings
 locale:           en_US
-url:              
+url:              http://abinashmeher999.github.io
+url:              http://localhost:4000
 
 
 # Jekyll configuration
@@ -27,22 +28,22 @@ kramdown:
 # Site owner
 owner:
   name: Abinash Meher
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  avatar: my-bio-photo.jpg
+  bio: "An undergraduate student in Computer Science and Engineering at IIT Kharagpur, and student developer at Ruby Science Foundation"
+  email: abinashdakshana999@gmail.com
+  disqus-shortname: Abinash_Meher
+  twitter: beenharsh999
+  facebook: #abinashmeher999
   google:
-    plus: #username
+    plus: AbinashMeher999
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: abinashmeher999
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: abinashmeher
   xing: #username
   instagram: #username
   lastfm: #username
