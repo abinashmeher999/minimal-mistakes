@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "A blog by Abinash Meher."
+tags: [Jekyll, gsoc, blog, coding, ruby]
 image:
   feature: sample-image-1.jpg
   credit: WeGraphics
